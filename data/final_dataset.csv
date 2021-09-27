@@ -1,4 +1,4 @@
-"City","Country","city_ascii","lat","lng","iso2","iso3","admin_name","capital","population","id","Land.area","Density","density2"
+"City","Country","city_ascii","lat","lng","iso2","iso3","admin_name","capital","population","id","Land.area","Density","Population Density"
 "Aachen","Germany","Aachen",50.7762,6.0838,"DE","DEU","North Rhine-Westphalia","minor",247380,1276805572,401,1450,616.907730673317
 "Accra","Ghana","Accra",5.6037,-0.187,"GH","GHA","Greater Accra","primary",2291352,1288299415,453,3300,5058.17218543046
 "Adelaide","Australia","Adelaide",-34.9289,138.6011,"AU","AUS","South Australia","admin",1345777,1036538171,729,NA,1846.05898491084
