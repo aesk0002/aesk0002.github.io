@@ -1,4 +1,4 @@
-"Country","ï..City","lat","lng","population","Density","Price_per_Square_Meter","continent"
+"Country","City","lat","lng","Population","Population_Density","Price_per_Square_Meter","Continent"
 "Argentina","Buenos Aires",-34.5997,-58.3819,16157000,7130.185349,2916,"Americas"
 "Australia","Adelaide",-34.9289,138.6011,1345777,1846.058985,3189,"Oceania"
 "Australia","Brisbane",-27.4678,153.0281,2514184,1568.424205,4690,"Oceania"
