@@ -1,4 +1,4 @@
-City,Country,lat,lng,population,Density,continent,Private_energy_use
+City,Country,lat,lng,Population,Population_Density,Continent,Private_energy_use
 Atlanta,United States,33.7627,-84.4224,5449398,1072.083022,Americas,75061
 Berlin,Germany,52.5167,13.3833,3644826,3704.091463,Europe,11078
 Brisbane,Australia,-27.4678,153.0281,2514184,1568.424205,Oceania,39880
