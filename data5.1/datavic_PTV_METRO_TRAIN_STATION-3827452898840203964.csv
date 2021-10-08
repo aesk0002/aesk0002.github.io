@@ -1,4 +1,4 @@
-STOP_ID, ROUTES_USING_STOP, LONGITUDE, TICKETZONE, LATITUDE, STOP_NAME, OBJECTID
+STOP_ID, ROUTES_USING_STOP, lng, TICKETZONE, lat, STOP_NAME, OBJECTID
 "19940","Frankston",145.038299,"1,2",-37.910309,"McKinnon Railway Station (Mckinnon)",116
 "19916","Pakenham,Cranbourne",145.102364,"1,2",-37.911017,"Huntingdale Railway Station (Oakleigh)",92
 "19951","Sandringham",144.996299,"1,2",-37.915134,"Middle Brighton Railway Station (Brighton)",127
