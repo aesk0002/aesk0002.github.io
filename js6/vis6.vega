@@ -91,7 +91,7 @@
       },
       "encoding": {
         "text": {"field": "here", "type": "nominal"},
-        "color": {"value": "red"},
+        "color": {"value": "#b30000"},
         "size":{"value":15},
         "opacity": {
           "condition": {
